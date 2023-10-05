@@ -18,7 +18,6 @@
 ![image](https://github.com/LiliaLuSol/flutter/assets/116663842/bc38ca18-2b67-49f7-a0e1-5d9e120ca992)
 
 # Пятый экран
-
 ![image](https://github.com/LiliaLuSol/flutter/assets/116663842/5a8b0190-a05e-4e3d-b4e1-2992091469b2)
 
 ![image](https://github.com/LiliaLuSol/flutter/assets/116663842/2847ce2e-8de7-4c37-9e03-38dfded20f14)
